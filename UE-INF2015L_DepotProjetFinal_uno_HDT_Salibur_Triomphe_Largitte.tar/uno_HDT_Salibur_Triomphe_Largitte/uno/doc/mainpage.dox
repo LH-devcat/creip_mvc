@@ -1,0 +1,17 @@
+/**	*	\mainpage UNO
+	*	\section Introduction
+	*	Nous avons fait un jeu de UNO, qui fonctionne en mode txt et avec SDL2. 
+	*	En mode SDL, la dernière carte jouée est au milieu de l'écran et le joueur clique sur la carte qu'il veut en bas pour la jouer.
+	*	\section Détails
+	*	Notre projet comporte 5 modules: 
+	
+	*	Carte, qui définit la classe de base utilisée par tous les autres.
+	
+	*	Pioche, classe qui est aussi utilisé pour gérer la main d'un joueur.
+	
+	*	Joueur, qui comporte toutes les fonctions qu'un joueur peut faire (comme piocher ou jouer une carte).
+	
+	*	Partie, qui fait surtout des tests (si un joueur joue une carte, cette carte-est elle valable ? qui doit jouer ?)
+	
+	*	sdlUno. Ce n'est pas une classe, juste un module qui contient la boucle d'évènements. Lancé par le main pour afficher le SDL.
+*/

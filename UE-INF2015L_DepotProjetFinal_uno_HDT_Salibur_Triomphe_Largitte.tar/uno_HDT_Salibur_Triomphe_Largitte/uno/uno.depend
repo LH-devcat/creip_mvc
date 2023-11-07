@@ -1,0 +1,217 @@
+# depslib dependency file v1.0
+1490683866 source:/home/etu/t/p1512165/S4/lifap4/Projet/workspace/p1512165-p_uno/uno/src/Carte.cpp
+	"Carte.h"
+	<iostream>
+	<string>
+
+1490685483 /home/etu/t/p1512165/S4/lifap4/Projet/workspace/p1512165-p_uno/uno/include/Carte.h
+	<string>
+
+1490683672 source:/home/etu/t/p1512165/S4/lifap4/Projet/workspace/p1512165-p_uno/uno/src/Pioche.cpp
+	"Pioche.h"
+	<iostream>
+	<vector>
+
+1490635753 /home/etu/t/p1512165/S4/lifap4/Projet/workspace/p1512165-p_uno/uno/include/Pioche.h
+	"Carte.h"
+	<vector>
+	<iostream>
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1490688793 source:/home/etu/t/p1512165/S4/lifap4/Projet/workspace/p1512165-p_uno/uno/src/Joueur.cpp
+	"Joueur.h"
+	<iostream>
+
+1490684486 /home/etu/t/p1512165/S4/lifap4/Projet/workspace/p1512165-p_uno/uno/include/Joueur.h
+	"Carte.h"
+	"Pioche.h"
+	<vector>
+	<iostream>
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1490691012 source:/home/etu/t/p1512165/S4/lifap4/Projet/workspace/p1512165-p_uno/uno/src/Partie.cpp
+	"Partie.h"
+
+1490689232 /home/etu/t/p1512165/S4/lifap4/Projet/workspace/p1512165-p_uno/uno/include/Partie.h
+	"Joueur.h"
+
+1490093715 source:/home/etu/t/p1512165/S4/lifap4/Projet/workspace/p1512165-p_uno/uno/src/main.cpp
+	"Partie.h"
+
+1490691266 source:/home/etu/t/p1512165/S4/lifap4/Projet/workspace/p1512165-p_uno/uno/src/testCarte.cpp
+	"Carte.h"
+	"Pioche.h"
+	"Joueur.h"
+	"Partie.h"
+	<iostream>
+
+1490683866 source:/home/etu/t/p1512165/Info/s4/lifap4/Projet/workspace/p1512165-p_uno/uno/src/Carte.cpp
+	"Carte.h"
+	<iostream>
+	<string>
+
+1490685483 /home/etu/t/p1512165/Info/s4/lifap4/Projet/workspace/p1512165-p_uno/uno/include/Carte.h
+	<string>
+
+1490688793 source:/home/etu/t/p1512165/Info/s4/lifap4/Projet/workspace/p1512165-p_uno/uno/src/Joueur.cpp
+	"Joueur.h"
+	<iostream>
+
+1490684486 /home/etu/t/p1512165/Info/s4/lifap4/Projet/workspace/p1512165-p_uno/uno/include/Joueur.h
+	"Carte.h"
+	"Pioche.h"
+	<vector>
+	<iostream>
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1490635753 /home/etu/t/p1512165/Info/s4/lifap4/Projet/workspace/p1512165-p_uno/uno/include/Pioche.h
+	"Carte.h"
+	<vector>
+	<iostream>
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1490683672 source:/home/etu/t/p1512165/Info/s4/lifap4/Projet/workspace/p1512165-p_uno/uno/src/Pioche.cpp
+	"Pioche.h"
+	<iostream>
+	<vector>
+
+1490691266 source:/home/etu/t/p1512165/Info/s4/lifap4/Projet/workspace/p1512165-p_uno/uno/src/testCarte.cpp
+	"Carte.h"
+	"Pioche.h"
+	"Joueur.h"
+	"Partie.h"
+	<iostream>
+
+1490689232 /home/etu/t/p1512165/Info/s4/lifap4/Projet/workspace/p1512165-p_uno/uno/include/Partie.h
+	"Joueur.h"
+
+1490878535 source:/home/etu/s/p1612126/Projet/workspace/p1512165-p_uno/uno/src/Carte.cpp
+	"Carte.h"
+	<iostream>
+	<string>
+
+1490685482 /home/etu/s/p1612126/Projet/workspace/p1512165-p_uno/uno/include/Carte.h
+	<string>
+
+1490888478 source:/home/etu/s/p1612126/Projet/workspace/p1512165-p_uno/uno/src/Joueur.cpp
+	"Joueur.h"
+	<iostream>
+
+1490888461 /home/etu/s/p1612126/Projet/workspace/p1512165-p_uno/uno/include/Joueur.h
+	"Carte.h"
+	"Pioche.h"
+	<vector>
+	<iostream>
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1490635752 /home/etu/s/p1612126/Projet/workspace/p1512165-p_uno/uno/include/Pioche.h
+	"Carte.h"
+	<vector>
+	<iostream>
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1490888815 source:/home/etu/s/p1612126/Projet/workspace/p1512165-p_uno/uno/src/Partie.cpp
+	"Partie.h"
+
+1490886537 /home/etu/s/p1612126/Projet/workspace/p1512165-p_uno/uno/include/Partie.h
+	"Joueur.h"
+
+1490880267 source:/home/etu/s/p1612126/Projet/workspace/p1512165-p_uno/uno/src/Pioche.cpp
+	"Pioche.h"
+	<iostream>
+	<vector>
+
+1490881840 source:/home/etu/s/p1612126/Projet/workspace/p1512165-p_uno/uno/src/testCarte.cpp
+	"Carte.h"
+	"Pioche.h"
+	"Joueur.h"
+	"Partie.h"
+	<iostream>
+
+1490885793 source:/home/etu/s/p1612126/Projet/workspace/p1512165-p_uno/uno/src/main.cpp
+	"Partie.h"
+
+1492760345 source:/home/etu/t/p1512165/Info/lifap4/Projet/workspace/p1512165-p_uno/uno/src/Carte.cpp
+	"Carte.h"
+	<iostream>
+	<string>
+
+1492760364 /home/etu/t/p1512165/Info/lifap4/Projet/workspace/p1512165-p_uno/uno/include/Carte.h
+	<string>
+
+1493382644 source:/home/etu/t/p1512165/Info/lifap4/Projet/workspace/p1512165-p_uno/uno/src/Joueur.cpp
+	"Joueur.h"
+	<iostream>
+	<thread>
+	<chrono>
+
+1493110933 /home/etu/t/p1512165/Info/lifap4/Projet/workspace/p1512165-p_uno/uno/include/Joueur.h
+	"Carte.h"
+	"Pioche.h"
+	<vector>
+	<iostream>
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1491289390 /home/etu/t/p1512165/Info/lifap4/Projet/workspace/p1512165-p_uno/uno/include/Pioche.h
+	"Carte.h"
+	<vector>
+	<iostream>
+	<algorithm>
+	<ctime>
+	<cstdlib>
+
+1493377988 source:/home/etu/t/p1512165/Info/lifap4/Projet/workspace/p1512165-p_uno/uno/src/Partie.cpp
+	"Partie.h"
+
+1493113217 /home/etu/t/p1512165/Info/lifap4/Projet/workspace/p1512165-p_uno/uno/include/Partie.h
+	"Joueur.h"
+
+1491290131 source:/home/etu/t/p1512165/Info/lifap4/Projet/workspace/p1512165-p_uno/uno/src/Pioche.cpp
+	"Pioche.h"
+	<iostream>
+	<vector>
+
+1491287022 source:/home/etu/t/p1512165/Info/lifap4/Projet/workspace/p1512165-p_uno/uno/src/testCarte.cpp
+	"Carte.h"
+	"Pioche.h"
+	"Joueur.h"
+	"Partie.h"
+	<iostream>
+
+1491899895 source:/home/etu/t/p1512165/Info/lifap4/Projet/workspace/p1512165-p_uno/uno/src/main.cpp
+	"Partie.h"
+	"sdlUno.h"
+
+1491899499 /home/etu/t/p1512165/Info/lifap4/Projet/workspace/p1512165-p_uno/uno/src/sdlUno.cpp
+	"SDL2/SDL.h"
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	"sdlUno.h"
+
+1493108525 /home/etu/t/p1512165/Info/lifap4/Projet/workspace/p1512165-p_uno/uno/include/sdlUno.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	"Partie.h"
+	<stdio.h>
+
+1493385825 source:/home/etu/t/p1512165/Info/lifap4/Projet/workspace/p1512165-p_uno/uno/src/sdlUno.cpp
+	"SDL2/SDL.h"
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	"sdlUno.h"
+

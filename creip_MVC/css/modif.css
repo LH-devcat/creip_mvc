@@ -1,0 +1,21 @@
+#tablecv{
+    width: 66%;
+    margin: auto;
+}
+
+#alignementcv{
+    float:right;
+}
+
+.custom{
+    width: 140px;
+}
+
+.col-centered{
+    width: 50%;
+    margin: auto;
+}
+
+.customsettingpage{
+    padding-top: 15px;
+}
